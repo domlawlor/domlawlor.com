@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Dom Lawlor
-description: subtitle | affiliations | motto
+description: Games Programmer
 
 baseurl: / #name of GitHub repository
 url: "https://domlawlor.com" #custom url to be used instead of GitHub repository
@@ -14,7 +14,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+#twitter: "#"
 linkedin: "#"
 #stackoverflow: "#"
 github: "#"
