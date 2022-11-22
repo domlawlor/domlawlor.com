@@ -4,7 +4,7 @@ title: Nuclear Haste!
 description: made for Weekly Game Jam 267
 ---
 
-
+![GameTitleScreenImage](/assets/images/nuclearHaste_title.png)
 
 Playable - https://bronxtaco.itch.io/nuclear-haste
 Github - https://github.com/domlawlor/WGJ-267
