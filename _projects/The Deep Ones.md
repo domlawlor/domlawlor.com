@@ -7,7 +7,7 @@ description: made for 32Bit Jam 2022
 ![GameTitleScreenImage](/assets/images/theDeepOnes/title.png)
 ![ShopKeeperDialogueImage](/assets/images/theDeepOnes/shopUpgrades.png)
 ![ExploringImage](/assets/images/theDeepOnes/dock.png)
-![CaughtFishImage](/assets/theDeepOnes/fish.png)
+![CaughtFishImage](/assets/images/theDeepOnes/fish.png)
 
 Playable - https://bronxtaco.itch.io/the-deep-ones
 Github - https://github.com/domlawlor/32bitjam2022
