@@ -5,7 +5,7 @@ description: subtitle | affiliations | motto
 
 baseurl: / #name of GitHub repository
 url: "https://domlawlor.com" #custom url to be used instead of GitHub repository
-domain: domlawlor.com
+#domain: domlawlor.com
 email: #
 
 # Pagination
@@ -68,7 +68,7 @@ include:
   #- LICENSE.md
 
 plugins:
-  #- jekyll-seo-tag
+  - jekyll-seo-tag
   - jekyll-paginate
-  #- jekyll-email-protect
-  #- jekyll-target-blank
+  - jekyll-email-protect
+  - jekyll-target-blank
