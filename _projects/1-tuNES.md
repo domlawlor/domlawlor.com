@@ -17,7 +17,6 @@ Thought my biggest takeaway from this project was learning how assembly code act
 
 ---
 ![Mario](/assets/images/tuNES/marioBros.png)
-![Metroid](/assets/images/tuNES/metroid.png)  
-
+![Metroid](/assets/images/tuNES/metroid.png)
 ![Zelda](/assets/images/tuNES/zelda.png)
 ![Megaman](/assets/images/tuNES/megaman.png)
