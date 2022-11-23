@@ -49,12 +49,11 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - tuNES.md
+      - The Deep Ones.md
+      - Biblical Bomb Squad.md
+      - Nuclear Haste.md
+      - Rays Of Giza.md
 
 sass:
   sass_dir: /assets/css/_sass
