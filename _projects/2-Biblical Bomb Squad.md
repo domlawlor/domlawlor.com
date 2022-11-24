@@ -24,4 +24,4 @@ Technically, we aimed to make sure our game followed the technical limitations o
 Out of 185 entries, our game was rated 16th. The puzzles seemed to divide players in how much they enjoyed the game. Some finding the difficulty too high, while others complaining it was too easy!!  
 It definitely showed us the difficulty of making good puzzles
 
-Source code is here - (https://github.com/domlawlor/GBJAM10)
+Source code is here - [Github](https://github.com/domlawlor/GBJAM10)
