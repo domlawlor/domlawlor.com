@@ -46,9 +46,9 @@ published: true
 
 ---
 
-## Released Titles I've worked on
+## Released Titles
 
-The list of the games I've been part of the development team for: Call of Duty: Vanguard, Call of Duty: Modern Warfare 2, Tennis World Tour 2, AO Tennis 2, Cricket 19, and Big Bash Boom
+List of the games I've been part of the development team:    Call of Duty: Vanguard | Call of Duty: Modern Warfare 2 | Tennis World Tour 2 | AO Tennis 2 | Cricket 19 | Big Bash Boom
 
 ![COD:MW2](/assets/images/cv/mw2.jpg)
 ![COD:Vanguard](/assets/images/cv/vanguard.jpg)
