@@ -20,8 +20,10 @@ The aim of 32-Bit Jam is to create a PS1/N64 era style game with an optional the
 All development was done in the 2 week duration of the game jam. And as a team we are very happy with the result. We even got ranked #2 out of 137 entries, only just missing out on first! 
 
 The team:
-  * Luka Pavlovich - Art (Main world / Shopkeeper / Fish), Game Design - [ArtStation](https://www.artstation.com/lukapavlovich) | [Level Design Portfolio](https://lukapavlovich.squarespace.com/)
-  * Tim Day - Programming (UI / Game Flow), Game Design - [Gamedev Discord](https://discord.com/invite/NB542RwpJR) | [itch.io](https://bronxtaco.itch.io/)
+  * Luka Pavlovich - Art (Main world / Shopkeeper / Fish), Game Design  
+  [ArtStation](https://www.artstation.com/lukapavlovich) | [Level Design Portfolio](https://lukapavlovich.squarespace.com/)
+  * Tim Day - Programming (UI / Game Flow), Game Design  
+  [Gamedev Discord](https://discord.com/invite/NB542RwpJR) | [itch.io](https://bronxtaco.itch.io/)
   * Jake Archer - Music and Sound Design - [@jakeonkeys](https://www.instagram.com/jakeonkeys/?hl=en)
   * Nicholas Kerr - Art (Shop / Boat) - [ArtStation](https://www.artstation.com/nicholaskerr) | [itch.io](https://itch.io/profile/nickowiss)
   * And me (Dom Lawlor) - Programming (Gameplay), Game Design  
