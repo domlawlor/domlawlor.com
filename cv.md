@@ -5,8 +5,6 @@ permalink: /cv
 
 ### Experience
 
-<br>
-
 **Online Engineer at Sledgehammer Games**, Melbourne Australia  
 *July 2021 - August 2022*  
 Published titles - Call of Duty: Vanguard, Call of Duty: Modern Warfare 2
@@ -15,6 +13,7 @@ Worked on all aspects connected to networking and online. In the in-house C++ CO
   * Large focus on debugging and fixing crash dumps near the release of the game. Requiring strong skills in debugging and assembly understanding
   * Undertook responsibility for features such as Clan Leadederboards. Involved large amount of work across teams and studios to create a feature that will continue into future games
   * Gain experience working in a very large team across multiple studios and disicplines all around the world
+  
 --- 
 
 **Engine Programmer at Big Ant Studios**, Melbourne Australia  
@@ -38,16 +37,11 @@ Developer on commercial Air Traffic Control(ATC) software. Focusing on the train
   * Created a video screen recording application, programmed in C. Decoded frames from a hardware video recorder and overlaid eye tracking data to help ATC instructors gain insight on students learning
   * Worked on a web application frontend that remotely controlled planes in the commercial ATC software
   * Regularly gave demonstrations of the software to external clients and at internal business meetings
-
-<br>    
-	 
+ 
 ### Education
-<br>
 
 *2014 – 2018*  
 Bachelor of Software Engineering at RMIT University 
-
-<br>
 
 ### References
 
