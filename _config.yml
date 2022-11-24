@@ -49,11 +49,11 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - tuNES.md
-      - The Deep Ones.md
-      - Biblical Bomb Squad.md
-      - Nuclear Haste.md
-      - Rays Of Giza.md
+      - 0-tuNES.md
+      - 1-The Deep Ones.md
+      - 2-Biblical Bomb Squad.md
+      - 3-Nuclear Haste.md
+      - 4-Rays Of Giza.md
 
 sass:
   sass_dir: /assets/css/_sass
