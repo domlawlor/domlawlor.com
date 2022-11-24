@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /about
 profile:
   align: left
   image: me_profilepic1.jpg
