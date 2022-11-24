@@ -5,7 +5,7 @@ permalink: /cv
 
 --- 
 
-Printable version here - [CV](/assets/2022-CV_Dominic_Lawlor.docx)
+Printable version here - [CV](/assets/CV_Dominic_Lawlor.pdf)
 
 ### Experience
 
