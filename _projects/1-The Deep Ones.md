@@ -28,4 +28,4 @@ The team:
   * Nicholas Kerr - Art (Shop / Boat) - [ArtStation](https://www.artstation.com/nicholaskerr) | [itch.io](https://itch.io/profile/nickowiss)
   * And me (Dom Lawlor) - Programming (Gameplay), Game Design  
 
-All the source code is avaiable here - [Github](https://github.com/domlawlor/32bitjam2022)
+All the source code is available here - [Github](https://github.com/domlawlor/32bitjam2022)

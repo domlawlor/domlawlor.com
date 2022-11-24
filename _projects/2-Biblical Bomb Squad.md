@@ -21,7 +21,7 @@ Technically, we aimed to make sure our game followed the technical limitations o
   * Music and sound effects made by Tim, use the gameboys sound hardware 4 channels (2 Square, 1 Wave, and 1 Noise)
   * Controls limited to D-Pad, A, B, Start, and Select. Though analogue stick on gamepad also works for as D-Pad
 
-Out of 185 entries, our game was rated 16th. The puzzles seemed to divide players in how much they enjoyed the game. Some finding the difficulty too high, while others complaining it was too easy!!  
+Out of 185 entries, our game was rated 16th. The puzzles seemed to divide players in how much they enjoyed the game. Some people found the difficulty too high, while others complained it was too easy!!  
 It definitely showed us the difficulty of making good puzzles
 
 Source code is here - [Github](https://github.com/domlawlor/GBJAM10)

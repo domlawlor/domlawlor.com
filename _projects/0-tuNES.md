@@ -12,8 +12,8 @@ Therefore many games do not yet function. It also does not have an implementatio
 
 A majority of this project was completed while at Uni in 2017 and 2018. 
 I started because I played a lot of NES as a kid and thought it would be cool to make the same thing in code.
-Also I wanted a substantial project to be able to show in future job interviews (I know know this is why I got my first games job!) 
-Thought my biggest takeaway from this project was learning how assembly code actually made the NES hardware do everything. It's since made a lot of programming ideas easier to understand
+Also I wanted a substantial project to be able to show in future job interviews (I found out this is why I got my first games job!) 
+Though my biggest takeaway from this project was learning how assembly code actually made the NES hardware do everything. It's since made a lot of programming ideas easier to understand
 
 ---
 ![Mario](/assets/images/tuNES/marioBros.png)
