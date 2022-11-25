@@ -11,10 +11,10 @@ Printable version here - [CV](/assets/CV_Dom_Lawlor.pdf)
 *July 2021 - August 2022*  
 Published titles - Call of Duty: Vanguard, Call of Duty: Modern Warfare 2
 
-Worked on all aspects connected to networking and online. In the in-house C++ COD engine. Areas of work included, gameplay synchronization, party/lobby setup, dedicated and listen servers.
-  * Large focus on debugging and fixing crash dumps near the release of the game. Requiring strong skills in debugging and assembly understanding
-  * Undertook responsibility for features such as Clan Leadederboards. Involved large amount of work across teams and studios to create a feature that will continue into future games
-  * Gain experience working in a very large team across multiple studios and disciplines all around the world
+Worked on all aspects connected to networking and online for the in-house C++ COD engine. Areas of work included, gameplay synchronization, party/lobby setup, dedicated and listen servers.
+  * Undertook responsibility for features such as Clan Leaderboards. Involved large amount of work across teams and studios to create a feature that will continue into future games
+  * Large focus on debugging and fixing crash dumps near the release of the game. Required strong skills in debugging and good understanding of x86-64 assembly code
+  * Gained experience working in a very large team across multiple studios and disciplines all around the world
 
 --- 
 
