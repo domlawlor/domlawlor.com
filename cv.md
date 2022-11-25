@@ -24,7 +24,7 @@ Published titles - Tennis World Tour 2, Cricket 19, AO Tennis 2, Big Bash Boom
 
 Main focus on updating and maintaining Big Ant studios’ in-house C++ engine for a large array of platforms, including Xbox Series X, Playstation 5, Nintendo Switch, and Steam.
   * Majority of the work on updating the engine to work on Xbox Series X. This involved updates to xbox live services libraries, user management, game input, build tools and Direct X 12.
-  * Manage the online services and netcode code on all platforms. Key areas have been synchronization issues between clients, network lag mitigation and online lobby connection management.
+  * Manage the online services and netcode code on all platforms. Key areas were synchronization issues between clients, network lag mitigation and online lobby connection management.
   * Rewrote a Lua script Linter used for static code analysis. Improved programmatic checks and reduced overall build times.
   * Creation and maintenance of Visual Studio Extensions and MSBuild custom build properties used internally by the team. One of which allows for deploying and debugging on android devices.
   * Integrated Audiokinetic Wwise sound engine and updated gameplay sound code to accommodate the new sound engine.
