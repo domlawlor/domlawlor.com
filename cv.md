@@ -3,8 +3,6 @@ layout: default
 permalink: /cv
 ---
 
---- 
-
 Printable version here - [CV](/assets/CV_Dom_Lawlor.pdf)
 
 ### Experience
