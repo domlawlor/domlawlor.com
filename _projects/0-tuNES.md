@@ -7,8 +7,8 @@ description: NES Emulator
 All source code is found here - [tuNES Github](https://github.com/domlawlor/tuNES)
 
 A NES emulator written in C++. It can play play games like Zelda, Donkey Kong, Mario Bros, Metroid, ect  
-The emulator is not feature complete and does not contain implementation for all the different cartridge hardware.  
-Therefore many games do not yet function. It also does not have an implementation of the Audio Processing Unit(APU), so there is currently no sound or music.
+The emulator is not feature complete, missing implementation for all the different cartridge hardware. Therefore many games do not yet function.
+It also does not have an implementation of the Audio Processing Unit(APU), so there is currently no sound or music.
 
 A majority of this project was completed while at Uni in 2017 and 2018. 
 I started because I played a lot of NES as a kid and thought it would be cool to make the same thing in code.
