@@ -5,6 +5,7 @@ permalink: /
 published: true
 ---
 
+## Personal Projects
 
 <div class="ProjectContainer">
 

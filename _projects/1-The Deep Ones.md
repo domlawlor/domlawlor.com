@@ -28,4 +28,7 @@ The team:
   * Nicholas Kerr - Art (Shop / Boat) - [ArtStation](https://www.artstation.com/nicholaskerr) | [itch.io](https://itch.io/profile/nickowiss)
   * And me (Dom Lawlor) - Programming (Gameplay), Game Design  
 
+My role in this jam was the majority of the boat gameplay. So the fishing mechanic, quick time events, sailing, camera, and tween animations for the boat.  
+I also implemented the Playstation style shaders that reduced the color depth, vertex jitter and affine texture mapping. Most of this came from this open source project [Godot PSX Style Demo](https://github.com/MenacingMecha/godot-psx-style-demo), with some slight modifications. Am very thankful for MenacingMecha's work!
+
 All the source code is available here - [Github](https://github.com/domlawlor/32bitjam2022)
