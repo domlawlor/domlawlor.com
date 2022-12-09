@@ -8,7 +8,8 @@ All source code is found here - [tuNES Github](https://github.com/domlawlor/tuNE
 
 A NES emulator written in C++. It can play games like Zelda, Donkey Kong, Mario Bros, Metroid, ect.
 
-A majority of this project was completed while at Uni in 2017 and 2018. 
+A majority of this project was completed while at Uni in 2017 and 2018. Recently (Decemeber 2022), I rewrote most of the cpu and how it clocks the ppu. 
+Heavy inspiration for the cpu/ppu timing taken from the Mesen emulator.
 I started because I played a lot of NES as a kid and thought it would be cool to make the same thing in code.
 Also I wanted a substantial project to be able to show in future job interviews (I found out this is why I got my first games job!).
 Though my biggest takeaway from this project was learning how assembly code actually made the NES hardware do everything. It's since made a lot of programming ideas easier to understand.
